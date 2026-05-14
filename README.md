@@ -27,5 +27,5 @@ An AI-powered web application that generates short videos from text descriptions
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ramkishor6003/video-generator.git
-cd video-generator
+git clone https://github.com/ramkishor6003/Video Generator.git
+cd Video Generator.
