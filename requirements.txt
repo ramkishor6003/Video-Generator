@@ -1,0 +1,10 @@
+diffusers
+transformers
+accelerate
+torch
+torchvision
+torchaudio
+xformers
+moviepy
+imageio
+gradio
