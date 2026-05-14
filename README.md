@@ -23,6 +23,13 @@ An AI-powered web application that generates short videos from text descriptions
 - Gradio
 - MoviePy & ImageIO
 
+Project Live Demo
+Project live screen recording:
+
+
+https://github.com/user-attachments/assets/99d63413-4c12-40e7-911f-d6c5768e329e
+
+
 ## Installation
 
 1. Clone the repository:
