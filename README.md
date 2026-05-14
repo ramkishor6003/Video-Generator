@@ -31,9 +31,4 @@ git clone https://github.com/ramkishor6003/Video Generator.git
 cd Video Generator.
 
 
-Project Live Demo
-Project live screen recording:
-
-https://github.com/user-attachments/assets/76d43b71-2db7-42fb-92d5-1ec7b9cd9a57
-
 
