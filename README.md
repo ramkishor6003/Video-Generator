@@ -24,6 +24,7 @@ An AI-powered web application that generates short videos from text descriptions
 - MoviePy & ImageIO
 
 Project Live Demo
+
 Project live screen recording:
 
 
